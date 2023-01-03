@@ -15,7 +15,7 @@ public class Main {
         System.out.println("operator is " + operator);
 
         //-- read the numbers from the text file
-        List<String> lines = Files.readAllLines(Paths.get("D:\\1. SE LECTURES\\2nd Year 1st Sem\\SENG 21222 - Software Construction\\Calculater with Java\\src\\com\\company\\numbers.txt"));
+        List<String> lines = Files.readAllLines(Paths.get("E:\\Calculater with Java\\src\\com\\company\\numbers.txt"));
 
         String firstLine = lines.get(0);
 
