@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Version1;
 
 
 import java.io.IOException;
