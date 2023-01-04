@@ -1,4 +1,4 @@
-package com.company.Version2;
+package com.company.Version2.operations;
 
 public interface Operation {
 

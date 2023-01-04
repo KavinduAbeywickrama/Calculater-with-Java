@@ -1,6 +1,6 @@
-package com.company.Version2;
+package com.company.Version3.operations;
 
-public class AddOperation implements Operation{
+public class AddOperation implements Operation {
     public double perform(int[] numbers) {
         double result = 0;
         for (int i = 0; i < numbers.length; i++) {

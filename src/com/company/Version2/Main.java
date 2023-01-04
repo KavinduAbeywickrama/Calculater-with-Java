@@ -1,10 +1,10 @@
 package com.company.Version2;
 
 
+import com.company.Version2.operations.AddOperation;
+import com.company.Version2.operations.AvgOperation;
+
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
